@@ -1,1 +1,1 @@
-Selected completed problem sets from Tao's Math 245A notes, with some occasional personal remarks.
+Complete worked-out problem sets from Tao's Math 245A notes, occationally with some personal remarks.
